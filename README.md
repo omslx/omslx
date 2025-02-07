@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm [mslx567](https://github.com/mslx567)!
+# 👋 Hi there, I'm [mslx](https://github.com/mslx567)!
 
 Welcome to my GitHub profile! I'm a passionate developer and open-source enthusiast. Here you can find some of my projects and contributions.
 
