@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi there, I'm [mslx567](https://github.com/mslx567)!
 
-<!--
-**mslx567/mslx567** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate developer and open-source enthusiast. Here you can find some of my projects and contributions.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🌟 Passionate about coding and learning new technologies
+- 💼 Software Developer with experience in full-stack development
+- 🎓 Always eager to improve and expand my skill set
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technologies & Tools
+- **Languages:** Kotlin, Java, JavaSkript
+- **Frameworks & Libraries:** React, Node.js, Express, Django, Spring Boot
+- **Databases:** MySQL, PostgreSQL, MongoDB
+- **Tools & Platforms:** Docker, Kubernetes, Git, GitHub Actions
+
+## 📈 GitHub Stats
+![mslx567's GitHub stats](https://github-readme-stats.vercel.app/api?username=mslx567&show_icons=true&theme=radical)
+
+## 📫 How to Reach Me
+- **Discord:** .artlis
+
+
+Feel free to check out my repositories and leave a star if you find them useful! Let's connect and collaborate on exciting projects. Thank you for visiting my profile!
+
+---
+⭐️ From [mslx567](https://github.com/mslx567)
