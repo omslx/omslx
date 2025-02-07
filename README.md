@@ -9,9 +9,9 @@ Welcome to my GitHub profile! I'm a passionate developer and open-source enthusi
 
 ## 🔧 Technologies & Tools
 - **Languages:** Kotlin, Java, JavaSkript
-- **Frameworks & Libraries:** React, Node.js, Express, Django, Spring Boot
-- **Databases:** MySQL, PostgreSQL, MongoDB
-- **Tools & Platforms:** Docker, Kubernetes, Git, GitHub Actions
+- **Frameworks & Libraries:** Node.js, JVM,
+- **Databases:** MySQL, MariaDB, MongoDB
+- **Tools & Platforms:** Docker, Git, GitHub Actions
 
 ## 📈 GitHub Stats
 ![mslx567's GitHub stats](https://github-readme-stats.vercel.app/api?username=mslx567&show_icons=true&theme=radical)
