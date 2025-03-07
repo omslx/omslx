@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a passionate developer and open-source enthusi
 
 ## 🔧 Technologies & Tools
 - **Languages:** Kotlin, Java, JavaSkript
-- **Frameworks & Libraries:** Node.js, JVM,
+- **Frameworks & Libraries:** Node.js, JVM, Ktor, TornadoFX, KtCompose, KtMPF
 - **Databases:** MySQL, MariaDB, MongoDB
 - **Tools & Platforms:** Docker, Git, GitHub Actions
 
