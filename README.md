@@ -76,7 +76,7 @@
 <div align="center">
 
 <!-- Spotify -->
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&bar_color=58A6FF&bar_color_cover=true)](https://open.spotify.com/user/YOUR_SPOTIFY_ID)
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=mslx&cover_image=true&theme=novatorem&bar_color=58A6FF&bar_color_cover=true)](https://open.spotify.com/user/mslx)
 
 </div>
 
