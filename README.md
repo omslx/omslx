@@ -1,26 +1,32 @@
-# 👋 Hi there, I'm [mslx](https://github.com/mslx567)!
+<!-- Header با انیمیشن تایپینگ -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF7F11&center=true&vCenter=true&width=435&lines=%D8%B3%D9%84%D8%A7%D9%85+%D9%85%D9%86+mslx+%D9%87%D8%B3%D8%AA%D9%85!;%D8%AA%D9%88%D8%B3%D8%B9%D9%87+%D8%AF%D9%87%D9%86%D8%AF%D9%87+%D9%81%D8%B1%D8%A7%D9%86%D8%AA;%DA%A9%D8%AF%E2%80%8C%D9%86%D9%88%DB%8C%D8%B3+%D8%AD%D8%B1%D9%81%D9%87%E2%80%8C%D8%A7%DB%8C;%D8%B9%D8%A7%D8%B4%D9%82+%D8%AA%DA%A9%D9%86%D9%88%D9%84%D9%88%DA%98%DB%8C" alt="Typing SVG" />
+</p>
 
-Welcome to my GitHub profile! I'm a passionate developer and open-source enthusiast. Here you can find some of my projects and contributions.
+<!-- مار افعی انیمیشنی -->
+<div align="center">
+  ![Snake animation](https://github.com/mslx/mslx/blob/output/github-contribution-grid-snake-dark.svg)
+</div>
 
-## 🚀 About Me
-- 🌟 Passionate about coding and learning new technologies
-- 💼 Software Developer with experience in full-stack development
-- 🎓 Always eager to improve and expand my skill set
-
-## 🔧 Technologies & Tools
-- **Languages:** Kotlin, Java, JavaSkript
-- **Frameworks & Libraries:** Node.js, JVM, Ktor, TornadoFX, KtCompose, KtMPF
-- **Databases:** MySQL, MariaDB, MongoDB
-- **Tools & Platforms:** Docker, Git, GitHub Actions
-
-## 📈 GitHub Stats
-![mslx567's GitHub stats](https://github-readme-stats.vercel.app/api?username=mslx567&show_icons=true&theme=radical)
-
-## 📫 How to Reach Me
-- **Discord:** .artlis
-
-
-Feel free to check out my repositories and leave a star if you find them useful! Let's connect and collaborate on exciting projects. Thank you for visiting my profile!
-
----
-⭐️ From [mslx567](https://github.com/mslx567)
+<!-- بخش درباره من -->
+## 🌠 درباره من
+```javascript
+const mslx = {
+  pronouns: "He/Him",
+  code: ["JavaScript", "Python", "TypeScript"],
+  askMeAbout: ["web dev", "tech", "cybersecurity"],
+  technologies: {
+    frontEnd: {
+      js: ["React", "Next.js"],
+      css: ["Tailwind", "Sass"]
+    },
+    backEnd: {
+      js: ["Node", "Express"],
+      python: ["Django", "Flask"]
+    },
+    devOps: ["Docker", "Kubernetes", "AWS"],
+    databases: ["MongoDB", "PostgreSQL"],
+    misc: ["Firebase", "Socket.IO"]
+  },
+  funFact: "کد من گاهی کار می‌کند! 😅"
+};
