@@ -10,7 +10,7 @@
 
 <!-- بخش درباره من -->
 ## 🌠 درباره من
-```javascript
+javascript
 const mslx = {
   pronouns: "He/Him",
   code: ["JavaScript", "Python", "TypeScript"],
