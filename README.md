@@ -1,100 +1,57 @@
-<!DOCTYPE html>
-<html lang="fa">
-<head>
-  <meta charset="UTF-8">
-  <title>پروفایل گیت‌هاب من</title>
-  <style>
-    body {
-      margin: 0;
-      padding: 0;
-      background: linear-gradient(135deg, #1e1e2f, #0d0d1a);
-      font-family: 'Vazir', sans-serif;
-      color: #fff;
-      overflow-x: hidden;
-    }
-    header, footer {
-      background-color: #ff70a6;
-      text-align: center;
-      padding: 20px 0;
-      position: relative;
-      animation: slideIn 1s ease-in-out;
-    }
-    @keyframes slideIn {
-      from { transform: translateY(-100%); opacity: 0; }
-      to { transform: translateY(0); opacity: 1; }
-    }
-    .container {
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      padding: 40px 20px;
-    }
-    .profile-img {
-      width: 120px;
-      border-radius: 50%;
-      border: 3px solid #ff70a6;
-      box-shadow: 0 0 15px #ff70a6;
-      margin-bottom: 20px;
-      animation: float 4s ease-in-out infinite;
-    }
-    @keyframes float {
-      0%, 100% { transform: translateY(0); }
-      50% { transform: translateY(-10px); }
-    }
-    .typewriter {
-      font-size: 24px;
-      border-right: 2px solid #fff;
-      white-space: nowrap;
-      overflow: hidden;
-      width: 0;
-      animation: typing 3s steps(30, end) forwards, blink 0.7s infinite;
-    }
-    @keyframes typing {
-      from { width: 0; }
-      to { width: 100%; }
-    }
-    @keyframes blink {
-      50% { border-color: transparent; }
-    }
-    .langs {
-      margin-top: 30px;
-      display: flex;
-      gap: 20px;
-    }
-    .langs img {
-      width: 40px;
-      transition: transform 0.3s ease, filter 0.3s ease;
-    }
-    .langs img:hover {
-      transform: scale(1.2);
-      filter: drop-shadow(0 0 5px #ff70a6);
-    }
-    footer {
-      margin-top: 40px;
-      font-size: 14px;
-    }
-  </style>
-</head>
-<body>
+<div align="center">
+  <img src="https://i.imgur.com/ANIME_HEADER_GIF.gif" alt="Anime Header" width="100%"/>
+  <h1> 👹 [نام تو یا نام مستعار] - Shinobi of Code 👹 </h1>
+  <p> "من یه برنامه‌نویسم که با کد، دنیا رو تغییر می‌دم!" - الهام گرفته از ناروتو ⚡ </p>
+</div>
 
-  <header>
-    <h1>خوش آمدید به پروفایل من</h1>
-  </header>
+---
 
-  <div class="container">
-    <img class="profile-img" src="https://i.pinimg.com/originals/fd/29/cf/fd29cf4d331a32b1372cdb279d7a0322.gif" alt="Anime Girl" />
-    <div class="typewriter">سلام، من [نام شما] هستم</div>
+### 🖌️ درباره من
+سلام! من [نام تو] هستم، یه توسعه‌دهنده عاشق انیمه و کدزنی! با جاوا، کاتلین و جاوااسکریپت پروژه‌های خفن می‌سازم و همیشه دنبال یادگیری چیزای جدیدم. توی گیت‌هاب پروژه‌هامو به اشتراک می‌ذارم و از اوپن‌سورس حمایت می‌کنم. 🌌
 
-    <div class="langs">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript">
-    </div>
-  </div>
+- 🎮 عاشق انیمه‌هایی مثل Attack on Titan, Demon Slayer و Jujutsu Kaisen
+- 💻 در حال کار روی پروژه‌های وب و اپلیکیشن‌های موبایل
+- 🌟 شعار من: "Code like a ninja, debug like a samurai!"
 
-  <footer>
-    &copy; 2025 پروفایل گیت‌هاب من
-  </footer>
+---
 
-</body>
-</html>
+### 🛠️ مهارت‌های من
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+</p>
+
+---
+
+### 📊 آمار گیت‌هاب من
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
+
+---
+
+### 🚀 پروژه‌های برجسته
+- **[اسم پروژه 1]**  
+  توضیح مختصر: یه اپلیکیشن موبایل با کاتلین برای مدیریت وظایف.  
+  🔗 [لینک به مخزن گیت‌هاب] | 🛠️ Kotlin, Android
+
+- **[اسم پروژه 2]**  
+  توضیح مختصر: یه وب‌اپ با جاوااسکریپت برای نمایش انیمه‌های محبوب.  
+  🔗 [لینک به مخزن گیت‌هاب] | 🛠️ JavaScript, React
+
+---
+
+### 🌐 با من در ارتباط باش
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/YOUR_TWITTER"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+</p>
+
+---
+
+<div align="center">
+  <img src="https://i.imgur.com/ANIME_FOOTER_GIF.gif" alt="Anime Footer" width="100%"/>
+  <p> "تا وقتی نفس می‌کشم، کد می‌زنم!" - الهام گرفته از One Piece 🏴‍☠️ </p>
+</div>
