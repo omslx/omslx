@@ -2,50 +2,51 @@
 <html lang="fa">
 <head>
   <meta charset="UTF-8">
-  <title>Anime GitHub Profile</title>
+  <title>Kawaii GitHub Profile</title>
   <style>
     body {
       margin: 0;
       padding: 0;
-      background: radial-gradient(circle, #1e1e2f, #0d0d1a);
+      background: #0d0b1f;
       color: #fff;
-      font-family: 'Vazir', sans-serif;
+      font-family: 'Comic Neue', cursive;
       display: flex;
-      align-items: center;
       justify-content: center;
+      align-items: center;
       height: 100vh;
       overflow: hidden;
     }
     .card {
       background: rgba(255, 255, 255, 0.05);
-      border: 2px solid #ff70a6;
-      border-radius: 20px;
-      box-shadow: 0 0 25px #ff70a6;
-      padding: 30px;
+      border: 1px solid #ff9de2;
+      border-radius: 16px;
+      padding: 25px;
       text-align: center;
-      width: 350px;
-      position: relative;
-      animation: glow 3s infinite alternate;
+      box-shadow: 0 0 20px #ff8ed6;
+      animation: float 4s ease-in-out infinite;
+      width: 280px;
     }
-    @keyframes glow {
-      from { box-shadow: 0 0 15px #ff70a6; }
-      to { box-shadow: 0 0 30px #ff70a6, 0 0 60px #ff1493; }
+    @keyframes float {
+      0%, 100% { transform: translateY(0); }
+      50% { transform: translateY(-10px); }
     }
-    .profile-img {
-      width: 150px;
+    .pfp {
+      width: 90px;
       border-radius: 50%;
-      border: 4px solid #ff70a6;
-      box-shadow: 0 0 15px #ff70a6;
-      margin-bottom: 20px;
+      border: 2px solid #ff6fcf;
+      box-shadow: 0 0 15px #ff6fcf;
+      margin-bottom: 15px;
     }
-    .typewriter {
-      font-size: 22px;
+    .name {
+      font-size: 18px;
+      color: #ffc0f9;
+      text-shadow: 0 0 8px #ff8ed6;
+      margin-bottom: 10px;
       white-space: nowrap;
       overflow: hidden;
-      border-right: 3px solid #fff;
+      border-right: 2px solid #fff;
       width: 0;
-      animation: typing 4s steps(30, end) forwards, blink 0.7s infinite;
-      margin: 0 auto;
+      animation: typing 3s steps(30, end) forwards, blink 0.7s infinite;
     }
     @keyframes typing {
       from { width: 0; }
@@ -55,25 +56,27 @@
       50% { border-color: transparent; }
     }
     .langs {
-      margin-top: 20px;
+      margin-top: 15px;
       display: flex;
-      justify-content: space-around;
+      justify-content: center;
+      gap: 12px;
     }
     .langs img {
-      width: 40px;
-      transition: transform 0.3s ease;
+      width: 28px;
+      height: 28px;
+      transition: transform 0.2s ease, filter 0.2s ease;
     }
     .langs img:hover {
-      transform: scale(1.3) rotate(10deg);
-      filter: drop-shadow(0 0 5px #ff70a6);
+      transform: scale(1.3);
+      filter: drop-shadow(0 0 6px #ff8ed6);
     }
   </style>
 </head>
 <body>
 
   <div class="card">
-    <img src="https://i.pinimg.com/originals/a4/45/e0/a445e0d7cd07b8a7be03cc2033d30a2b.gif" alt="anime girl" class="profile-img">
-    <div class="typewriter">سلام، من [اسم تو] هستم 🌸</div>
+    <img class="pfp" src="https://i.pinimg.com/originals/fd/29/cf/fd29cf4d331a32b1372cdb279d7a0322.gif" alt="anime girl" />
+    <div class="name">✧ من [اسم تو] هستم ✧</div>
     <div class="langs">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin">
