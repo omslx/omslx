@@ -1,7 +1,7 @@
 # 🌸 𝓗𝓮𝓵𝓵𝓸, 𝓘'𝓶 𝓐𝓶𝓲𝓻! 
 
 <div align="center">
-  <img src="[https://i.imgur.com/5XwvGsd.gif](https://tenor.com/view/sky-gif-14335708226732956945)" width="400"/>
+  <img src="https://tenor.com/view/sky-gif-14335708226732956945" width="400"/>
   <br/>
   <img src="https://readme-typing-svg.demolab.com?font=Kanit&size=25&duration=4000&pause=1000&color=FF79C6&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Anime+Enthusiast;Kotlin+Lover;Open+Source+Contributor" alt="Typing Animation"/>
 </div>
