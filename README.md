@@ -21,8 +21,8 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&bg_color=FFC0CB&title_color=FF69B4&text_color=333&icon_color=FF69B4&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&bg_color=FFC0CB&title_color=FF69B4&text_color=333&hide_border=true&langs_count=8" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=artmslx&show_icons=true&theme=radical&bg_color=FFC0CB&title_color=FF69B4&text_color=333&icon_color=FF69B4&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artmslx&layout=compact&theme=radical&bg_color=FFC0CB&title_color=FF69B4&text_color=333&hide_border=true&langs_count=8" />
 </div>
 
 ## 🌸 Connect With Me
