@@ -12,13 +12,11 @@
       margin: 0 auto;
       padding: 20px;
     }
-    
     .header {
       text-align: center;
       margin-bottom: 30px;
       position: relative;
     }
-    
     .anime-girl {
       width: 200px;
       height: 200px;
@@ -29,7 +27,6 @@
       display: block;
       box-shadow: 0 0 20px #ff1493;
     }
-    
     h1 {
       color: #ff69b4;
       font-size: 2.5em;
@@ -37,14 +34,12 @@
       text-shadow: 0 0 10px #ff1493;
       animation: glow 2s infinite alternate;
     }
-    
     h2 {
       color: #ff69b4;
       border-bottom: 2px solid #ff1493;
       padding-bottom: 5px;
       margin-top: 30px;
     }
-    
     .skills-container {
       display: flex;
       flex-wrap: wrap;
@@ -52,7 +47,6 @@
       justify-content: center;
       margin: 20px 0;
     }
-    
     .skill {
       background: linear-gradient(145deg, #1a1a2e, #16213e);
       padding: 8px 15px;
@@ -60,14 +54,12 @@
       border: 1px solid #ff69b4;
       font-weight: bold;
     }
-    
     .projects {
       display: grid;
       grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
       gap: 20px;
       margin: 20px 0;
     }
-    
     .project-card {
       background: linear-gradient(145deg, #1a1a2e, #16213e);
       border-radius: 10px;
@@ -75,11 +67,9 @@
       border-left: 4px solid #ff69b4;
       transition: transform 0.3s ease;
     }
-    
     .project-card:hover {
       transform: translateY(-5px);
     }
-    
     .anime-gallery {
       display: flex;
       flex-wrap: wrap;
@@ -87,7 +77,6 @@
       gap: 15px;
       margin: 20px 0;
     }
-    
     .anime-img {
       width: 120px;
       height: 170px;
@@ -96,18 +85,15 @@
       border: 3px solid #ff69b4;
       transition: transform 0.3s ease;
     }
-    
     .anime-img:hover {
       transform: scale(1.1);
     }
-    
     .contact-links {
       display: flex;
       justify-content: center;
       gap: 15px;
       margin-top: 30px;
     }
-    
     .contact-btn {
       padding: 10px 20px;
       border-radius: 5px;
@@ -115,22 +101,18 @@
       font-weight: bold;
       transition: all 0.3s ease;
     }
-    
     .twitter {
       background-color: #1DA1F2;
       color: white;
     }
-    
     .github {
       background-color: #333;
       color: white;
     }
-    
     .email {
       background-color: #D14836;
       color: white;
     }
-    
     @keyframes glow {
       from {
         text-shadow: 0 0 5px #ff69b4;
@@ -139,7 +121,6 @@
         text-shadow: 0 0 20px #ff1493, 0 0 30px #ff69b4;
       }
     }
-    
     .stats-container {
       display: flex;
       justify-content: center;
@@ -147,7 +128,6 @@
       margin: 30px 0;
       flex-wrap: wrap;
     }
-    
     .stats-card {
       background: linear-gradient(145deg, #1a1a2e, #16213e);
       padding: 15px;
