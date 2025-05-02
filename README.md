@@ -1,12 +1,12 @@
-# Hello there! 👋
+# سلام! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+profile!" alt="Welcome message" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=به+پروفایل+گیتهاب+من+خوش+آمدید!" alt="Welcome message" />
 </div>
 
-## 🛠️ My Tech Stack
+## 🛠️ مهارت های فنی
 
-### Main Languages
+### زبان های برنامه نویسی
 <p align="left">
   <a href="https://java.com" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
@@ -19,26 +19,26 @@
   </a>
 </p>
 
-## 📊 GitHub Stats
+## 📊 آمار گیتهاب
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&bg_color=FFC0CB&title_color=FF69B4&text_color=333&icon_color=FF69B4&hide_border=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&bg_color=FFC0CB&title_color=FF69B4&text_color=333&hide_border=true&langs_count=6&exclude_repo=repo1,repo2" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=omslx&show_icons=true&theme=radical&bg_color=FFC0CB&title_color=FF69B4&text_color=333&icon_color=FF69B4&hide_border=true" alt="آمار گیتهاب" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omslx&layout=compact&theme=radical&bg_color=FFC0CB&title_color=FF69B4&text_color=333&hide_border=true&langs_count=6" alt="زبان‌های پرکاربرد" />
 </div>
 
-## 🌸 Let's Connect
+## 🌸 ارتباط با من
 <p align="left">
   <a href="https://linkedin.com/in/YOUR_PROFILE" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white" alt="لینکدین"/>
   </a>
   <a href="mailto:YOUR_EMAIL@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-FF69B4?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-FF69B4?style=for-the-badge&logo=gmail&logoColor=white" alt="جیمیل"/>
   </a>
-  <a href="https://twitter.com/YOUR_HANDLE" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-FF69B4?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  <a href="https://t.me/YOUR_TELEGRAM" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-FF69B4?style=for-the-badge&logo=telegram&logoColor=white" alt="تلگرام"/>
   </a>
 </p>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=FF69B4&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=omslx&label=بازدید%20پروفایل&color=FF69B4&style=flat" alt="بازدیدها" />
 </div>
