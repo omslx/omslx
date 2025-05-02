@@ -1,97 +1,36 @@
+# �𝓮�𝓼𝓵𝔁 
+
 <div align="center">
-  <!-- Animated Header -->
-  <img src="https://i.imgur.com/JR4jDfG.gif" width="100%">
-  
-  <!-- Profile Picture -->
-  <img src="https://i.imgur.com/JR4jDfG.gif" width="200" style="border-radius:50%; border: 5px solid #ff69b4; margin-top: -100px;">
-  
-  <!-- Name -->
-  <h1 style="color: #ff69b4; font-size: 2.5em; text-shadow: 0 0 10px #ff1493;">
-    こんにちは! [Your Name] です
-  </h1>
-  
-  <!-- Title -->
-  <p style="font-size: 1.2em;">
-    Full Stack Developer | Anime Enthusiast | Open Source Contributor
-  </p>
-  
-  <!-- Social Badges -->
-  <p>
-    <a href="https://twitter.com/yourprofile">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
-    </a>
-    <a href="https://github.com/yourprofile">
-      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-    </a>
-    <a href="https://linkedin.com/in/yourprofile">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-    </a>
-  </p>
+  <img src="https://i.imgur.com/XyJXq7L.gif" width="300" height="300"/>
 </div>
 
-<!-- Skills Section -->
-<div style="background: #1a1a2e; padding: 20px; border-radius: 10px; margin: 20px 0;">
-  <h2 style="color: #ff69b4; border-bottom: 2px solid #ff1493; display: inline-block;">
-    🛠 Technical Skills
-  </h2>
-  
-  <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 15px;">
-    <span style="background: #252540; padding: 5px 10px; border-radius: 5px; border-left: 3px solid #ff69b4;">
-      Java
-    </span>
-    <span style="background: #252540; padding: 5px 10px; border-radius: 5px; border-left: 3px solid #ff69b4;">
-      Kotlin
-    </span>
-    <span style="background: #252540; padding: 5px 10px; border-radius: 5px; border-left: 3px solid #ff69b4;">
-      JavaScript
-    </span>
-    <span style="background: #252540; padding: 5px 10px; border-radius: 5px; border-left: 3px solid #ff69b4;">
-      React
-    </span>
-    <span style="background: #252540; padding: 5px 10px; border-radius: 5px; border-left: 3px solid #ff69b4;">
-      Node.js
-    </span>
-  </div>
+## 𝓗𝓮�𝓵𝓵𝓸 𝓽𝓱𝓮𝓻𝓮! 👋 𝓘'𝓶 𝓶𝓼𝓵𝔁
+
+𝓐𝓷𝓲𝓶𝓮-𝓵𝓸�𝓲𝓷𝓰 𝓭𝓮𝓿𝓮𝓵𝓸𝓹𝓮𝓻 𝔀𝓱𝓸 𝓵𝓸𝓿𝓮𝓼 𝓽𝓸 𝓬𝓻𝓮𝓪𝓽𝓮 �𝓪𝓶𝓪𝓼𝓲�𝓷𝓰 𝓬𝓸𝓭𝓮!
+
+---
+
+### 𝓛𝓪𝓷𝓰𝓾𝓪𝓰𝓮𝓼 𝓪𝓷𝓭 𝓣𝓮𝓬𝓱𝓷𝓸𝓵𝓸𝓰𝓲𝓮𝓼
+
+<div>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </div>
 
-<!-- GitHub Stats -->
-<div style="text-align: center; margin: 20px 0;">
-  <h2 style="color: #ff69b4; border-bottom: 2px solid #ff1493; display: inline-block;">
-    📊 GitHub Stats
-  </h2>
-  
-  <div style="display: flex; justify-content: center; gap: 10px; margin-top: 15px; flex-wrap: wrap;">
-    <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical">
-  </div>
-</div>
+---
 
-<!-- Anime Gallery -->
-<div style="text-align: center; margin: 20px 0;">
-  <h2 style="color: #ff69b4; border-bottom: 2px solid #ff1493; display: inline-block;">
-    🎌 Favorite Anime
-  </h2>
-  
-  <div style="display: flex; justify-content: center; gap: 15px; margin-top: 15px; flex-wrap: wrap;">
-    <img src="https://i.imgur.com/8KQ0XJl.png" width="150" style="border-radius: 10px; border: 3px solid #ff69b4;">
-    <img src="https://i.imgur.com/JR4jDfG.png" width="150" style="border-radius: 10px; border: 3px solid #ff69b4;">
-    <img src="https://i.imgur.com/9KXQwZL.png" width="150" style="border-radius: 10px; border: 3px solid #ff69b4;">
-  </div>
-</div>
+### 𝓖�𝓲𝓽𝓗𝓾𝓫 𝓢𝓽𝓪𝓽𝓼
 
-<style>
-  @keyframes glow {
-    0% { text-shadow: 0 0 5px #ff69b4; }
-    50% { text-shadow: 0 0 20px #ff1493; }
-    100% { text-shadow: 0 0 5px #ff69b4; }
-  }
-  
-  h1 {
-    animation: glow 2s infinite;
-  }
-  
-  img:hover {
-    transform: scale(1.05);
-    transition: transform 0.3s ease;
-  }
-</style>
+![mslx's GitHub stats](https://github-readme-stats.vercel.app/api?username=mslx&show_icons=true&theme=radical)
+
+---
+
+### 𝓒𝓸𝓷𝓽𝓪𝓬� 𝓜𝓮
+
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+
+---
+
+> "𝓣𝓱𝓮 𝓶𝓸𝓼� 𝓭𝓪𝓷𝓰𝓮𝓻𝓸𝓾𝓼 𝓬𝓸𝓭𝓮 𝓲𝓼 𝓽𝓱𝓮 �𝓸𝓷𝓮 𝓽𝓱𝓪𝓽 𝓷𝓮𝓿��� 𝓻𝓾𝓷𝓼" - 𝓐𝓷𝓸𝓷𝓲𝓶𝓸�𝓼 𝓐𝓷𝓲𝓶𝓮 �𝓮𝓿
