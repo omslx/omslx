@@ -1,7 +1,7 @@
 # سلام! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=به+پروفایل+گیتهاب+من+خوش+آمدید!" alt="Welcome message" />
+  <img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=به+پروفایل+گیتهاب+من+خوش+آمدید](https://tenor.com/view/sky-gif-14335708226732956945)!" alt="Welcome message" />
 </div>
 
 ## 🛠️ مهارت های فنی
