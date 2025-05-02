@@ -25,11 +25,11 @@
 ## 🌸 پروژه‌های برجسته
 
 <div align="center">
-  <a href="https://github.com/omslx/PROJECT_1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=omslx&repo=PROJECT_1&theme=radical&bg_color=0d1117&title_color=ff79c6&text_color=bd93f9&hide_border=true" width="45%"/>
+  <a href="https://github.com/omslx/Manhunt">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=omslx&repo=Manhunt&theme=radical&bg_color=0d1117&title_color=ff79c6&text_color=bd93f9&hide_border=true" width="45%"/>
   </a>
-  <a href="https://github.com/omslx/PROJECT_2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=omslx&repo=PROJECT_2&theme=radical&bg_color=0d1117&title_color=ff79c6&text_color=bd93f9&hide_border=true" width="45%"/>
+  <a href="https://github.com/omslx/new-information-site">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=omslx&repo=new-information-site&theme=radical&bg_color=0d1117&title_color=ff79c6&text_color=bd93f9&hide_border=true" width="45%"/>
   </a>
 </div>
 
