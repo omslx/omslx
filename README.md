@@ -16,7 +16,6 @@
       height: 100vh;
       overflow: hidden;
     }
-
     .card {
       background: rgba(255, 255, 255, 0.05);
       border: 2px solid #ff70a6;
@@ -28,12 +27,10 @@
       position: relative;
       animation: glow 3s infinite alternate;
     }
-
     @keyframes glow {
       from { box-shadow: 0 0 15px #ff70a6; }
       to { box-shadow: 0 0 30px #ff70a6, 0 0 60px #ff1493; }
     }
-
     .profile-img {
       width: 150px;
       border-radius: 50%;
@@ -41,7 +38,6 @@
       box-shadow: 0 0 15px #ff70a6;
       margin-bottom: 20px;
     }
-
     .typewriter {
       font-size: 22px;
       white-space: nowrap;
@@ -51,27 +47,22 @@
       animation: typing 4s steps(30, end) forwards, blink 0.7s infinite;
       margin: 0 auto;
     }
-
     @keyframes typing {
       from { width: 0; }
       to { width: 100%; }
     }
-
     @keyframes blink {
       50% { border-color: transparent; }
     }
-
     .langs {
       margin-top: 20px;
       display: flex;
       justify-content: space-around;
     }
-
     .langs img {
       width: 40px;
       transition: transform 0.3s ease;
     }
-
     .langs img:hover {
       transform: scale(1.3) rotate(10deg);
       filter: drop-shadow(0 0 5px #ff70a6);
@@ -83,7 +74,6 @@
   <div class="card">
     <img src="https://i.pinimg.com/originals/a4/45/e0/a445e0d7cd07b8a7be03cc2033d30a2b.gif" alt="anime girl" class="profile-img">
     <div class="typewriter">سلام، من [اسم تو] هستم 🌸</div>
-
     <div class="langs">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin">
