@@ -1,7 +1,4 @@
 <div align="center">
-  
-<!-- Animated Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=58A6FF&vCenter=true&width=500&height=50&lines=Hi+there+👋,+I'm+Amir;Full-Stack+Developer;Open+Source+Contributor;Tech+Enthusiast" alt="Typing Animation" />
 
 <!-- Profile GIF -->
 <img src="https://i.postimg.cc/k4RvvK1s/welcome.gif" width="500"/>
