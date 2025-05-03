@@ -4,7 +4,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=58A6FF&vCenter=true&width=500&height=50&lines=Hi+there+👋,+I'm+Amir;Full-Stack+Developer;Open+Source+Contributor;Tech+Enthusiast" alt="Typing Animation" />
 
 <!-- Profile GIF -->
-<img src="https://tenor.com/view/sky-gif-14335708226732956945" width="400"/>
+<img src="https://i.postimg.cc/8krZRQxG/ea7763f1c9c7eb43cf37b4be6d0aa8e5.gif" width="400"/>
 
 <!-- Social Badges -->
 <p align="center">
