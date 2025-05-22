@@ -9,13 +9,13 @@
   <a href="https://linkedin.com/in/YOUR_PROFILE">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://twitter.com/YOUR_TWITTER">
+  <a href="https://x.com/Erorr404mslx">
     <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"/>
   </a>
-  <a href="https://t.me/YOUR_TELEGRAM">
+  <a href="https://t.me/whoismslx">
     <img src="https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=telegram&logoColor=white"/>
   </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:mslx567@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=white"/>
   </a>
 </p>
