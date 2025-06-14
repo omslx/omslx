@@ -49,7 +49,7 @@
 <div align="center">
 
 <!-- Stats Card -->
-[![Amir's GitHub stats](https://github-readme-stats.vercel.app/api?username=omslx&show_icons=true&theme=onedark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E)](https://github.com/omslx)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=omslx&show_icons=true&theme=onedark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E)](https://github.com/omslx)
 
 <!-- Streak Stats -->
 [![GitHub Streak](https://streak-stats.demolab.com?user=omslx&theme=onedark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=8B949E&sideNums=8B949E&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8B949E)](https://git.io/streak-stats)
@@ -65,7 +65,7 @@
 
 <!-- Project Cards -->
 [![Manhunt](https://github-readme-stats.vercel.app/api/pin/?username=omslx&repo=Manhunt&theme=onedark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E)](https://github.com/omslx/Manhunt)
-[![Info Site](https://github-readme-stats.vercel.app/api/pin/?username=omslx&repo=new-information-site&theme=onedark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E)](https://github.com/omslx/new-information-site)
+[![Calculator]([https://github-readme-stats.vercel.app/api/pin/?username=omslx&repo=new-information-site&theme=onedark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E)](https://github.com/omslx/new-information-site](https://github.com/omslx/basic-calculator-project-for-school))
 
 </div>
 
