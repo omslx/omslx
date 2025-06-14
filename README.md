@@ -65,7 +65,7 @@
 
 <!-- Project Cards -->
 [![Manhunt](https://github-readme-stats.vercel.app/api/pin/?username=omslx&repo=Manhunt&theme=onedark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E)](https://github.com/omslx/Manhunt)
-[![Calculator]([https://github-readme-stats.vercel.app/api/pin/?username=omslx&repo=new-information-site&theme=onedark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E)](https://github.com/omslx/new-information-site](https://github.com/omslx/basic-calculator-project-for-school))
+[![Calculator](https://github.com/omslx/basic-calculator-project-for-school)
 
 </div>
 
