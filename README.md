@@ -1,33 +1,33 @@
 <!-- NEON HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f0c29,50:302b63,100:00fff7&text=OMSLX&fontSize=60&fontAlignY=35&desc=Neon%20Developer%20Profile&descAlignY=55&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f0c29,50:302b63,100:00fff7&text=OMSLX&fontSize=60&fontAlignY=40&animation=fadeIn"/>
 
-<h1 align="center">👋 Hey, I'm Amin (omslx)</h1>
+<h1 align="center">Hi 👋 I'm Amin</h1>
 <p align="center">
-  <b>Minecraft Developer • Backend Engineer • AI & Network Enthusiast</b>
+Minecraft Developer • Backend Engineer • AI & Network Explorer
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=00FFF7&center=true&vCenter=true&width=600&lines=Java+%7C+Kotlin+%7C+Go+Developer;Minecraft+Plugin+Engineer;AI+%26+Networking+Enthusiast;Always+Learning+Everyday..." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=00FFF7&center=true&vCenter=true&width=600&lines=Java+%7C+Kotlin+%7C+Go;Minecraft+Plugin+Developer;Backend+Systems+Builder;Learning+Everyday..." />
 </p>
 
 ---
 
-## 🧬 About Me
+# 🧬 About Me
 
-```yaml
-Name: Amin
-Nickname: omslx
-Age: 17
-Company: Nayra
-Role: Developer & Minecraft Dev
-Experience: ~4 Years
-Interests: AI, Backend, Networking
-Mindset: Learn. Build. Repeat.
-```
+I'm **Amin (omslx)** — a developer focused on building real systems, not just writing code.
+
+- 🎮 Minecraft plugin developer with production experience  
+- ⚙️ Backend engineer (Go / Kotlin / Java)  
+- 🌐 Interested in networking, infrastructure & system design  
+- 🤖 Exploring AI tools and automation  
+- 📈 ~4 years hands-on development experience  
+- 🧠 Learning something new every single day  
+
+I enjoy turning ideas into working systems and pushing projects from concept → production.
 
 ---
 
-## 🌌 Tech Stack
+# 🚀 Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=java,kotlin,go,python,linux,docker,mongodb,redis,git,github,idea,vscode&theme=dark"/>
@@ -35,16 +35,15 @@ Mindset: Learn. Build. Repeat.
 
 ---
 
-## 🔥 GitHub Stats
+# 🔥 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=omslx&show_icons=true&theme=tokyonight&hide_border=true&border_radius=14" height="170"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=omslx&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=omslx&show_icons=true&theme=tokyonight&hide_border=true&border_radius=14"/>
 </p>
 
 ---
 
-## 🧠 Most Used Languages
+# 🧠 Most Used Languages
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omslx&layout=compact&theme=tokyonight&hide_border=true"/>
@@ -52,7 +51,7 @@ Mindset: Learn. Build. Repeat.
 
 ---
 
-## 🐍 Contribution Snake (Neon)
+# 🐍 Contribution Snake
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
@@ -60,7 +59,7 @@ Mindset: Learn. Build. Repeat.
 
 ---
 
-## 📊 Activity Graph
+# 📊 Activity Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=omslx&theme=tokyo-night&hide_border=true"/>
@@ -68,32 +67,24 @@ Mindset: Learn. Build. Repeat.
 
 ---
 
-## 🎮 Current Focus
-
-- Advanced Minecraft plugins
-- Backend with Go & Kotlin
-- AI automation tools
-- Network infrastructure
-
----
-
-## 💭 Developer Quote
-
-> Code like an engineer.  
-> Build like a hacker.  
-> Learn like a beginner.
-
----
-
-## 🏆 Achievements
+# 🏆 Achievements
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=omslx&theme=tokyonight&no-frame=true&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=omslx&theme=tokyonight&no-frame=true&margin-w=10"/>
 </p>
 
 ---
 
-## 🌐 Connect
+# 🎯 Current Focus
+
+- Advanced Minecraft plugins
+- Backend systems (Go & Kotlin)
+- AI tools & workflow automation
+- Network engineering & infra
+
+---
+
+# 🌐 Connect
 
 <p align="center">
 
@@ -106,15 +97,6 @@ Mindset: Learn. Build. Repeat.
 </a>
 
 </p>
-
----
-
-## 🧸 Fun Zone
-
-- Minecraft dev is engineering 🎮  
-- Loves neon & dark UI 🌌  
-- Always building something ⚡  
-- Learning every single day 📚  
 
 ---
 
