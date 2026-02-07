@@ -1,86 +1,51 @@
-<div align="center">
+# Hi there, I'm Amin (mslx) 👋 🚀
 
-<!-- Profile GIF -->
-<img src="https://i.postimg.cc/k4RvvK1s/welcome.gif" width="500"/>
-
-
-<!-- Social Badges -->
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_PROFILE">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://x.com/Erorr404mslx">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"/>
-  </a>
-  <a href="https://t.me/whoismslx">
-    <img src="https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=telegram&logoColor=white"/>
-  </a>
-  <a href="mailto:mslx567@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=white"/>
-  </a>
+  <img src="https://capsule-render.vercel.app/render?type=thicket&color=auto&height=200&section=header&text=Amin%20Mslx&fontSize=80&animation=fadeIn" />
 </p>
 
-</div>
+### 👨‍💻 About Me
+من امین هستم، یه برنامه نویس ۱۷ ساله که از ۱۳ سالگی وارد دنیای کدنویسی شدم. در حال حاضر به عنوان توسعه‌دهنده در **Naira** و **MineHone** فعالیت می‌کنم. عاشق چالش‌های جدید و یادگیری تکنولوژی‌های روز هستم.
 
-## 🛠 Tech Stack
+- 🛠 **تجربه:** ۴ سال فعالیت حرفه‌ای
+- 🏢 **فعالیت فعلی:** Developer @ Naira & MineHone
+- 🎓 **یادگیری:** هر روز یک چیز جدید (Daily Learner)
+- 💡 **علاقه‌مندی‌ها:** AI، برنامه‌نویسی سیستمی و شبکه
 
-<div align="center">
+---
 
-### Languages
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+### 🛠 Tech Stack
 
-### Frameworks
-![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=spring&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+</p>
 
-### Tools
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Android Studio](https://img.shields.io/badge/-Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
+**Tools & Expertise:**
+`Docker` `Git` `Microservices` `Network Programming` `AI Integration`
 
-</div>
+---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats (My Coding Journey)
 
-<div align="center">
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+</p>
 
-<!-- Stats Card -->
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=omslx&show_icons=true&theme=onedark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E)](https://github.com/omslx)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
 
-<!-- Streak Stats -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=omslx&theme=onedark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=8B949E&sideNums=8B949E&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8B949E)](https://git.io/streak-stats)
+---
 
-<!-- Top Languages -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omslx&layout=compact&theme=onedark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E)](https://github.com/omslx)
+### 💫 Connect with Me
+<p align="left">
+<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mslx" height="30" width="40" /></a>
+<a href="https://t.me/YOUR_TELEGRAM" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="mslx" height="30" width="40" /></a>
+</p>
 
-</div>
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-<!-- Project Cards -->
-[![Manhunt](https://github-readme-stats.vercel.app/api/pin/?username=omslx&repo=Manhunt&theme=onedark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E)](https://github.com/omslx/Manhunt)
-[![Calculator](https://github-readme-stats.vercel.app/api/pin/?username=omslx&repo=basic-calculator-project-for-school&theme=onedark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E)](https://github.com/omslx/basic-calculator-project-for-school)
-
-</div>
-
-## 🎧 Now Playing
-
-<div align="center">
-
-<!-- Spotify -->
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=mslx&cover_image=true&theme=novatorem&bar_color=58A6FF&bar_color_cover=true)](https://open.spotify.com/user/mslx)
-
-</div>
-
-<div align="center">
-
-<!-- Footer -->
-<img src="https://komarev.com/ghpvc/?username=omslx&label=Profile+Views&color=58A6FF&style=flat" alt="Profile views" />
-  
-</div>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
