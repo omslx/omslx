@@ -1,39 +1,72 @@
-# ⚡ <samp>System.out.println("Hello, I'm Amin!"); </samp>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=45&pause=1000&color=00E5FF&center=true&vCenter=true&width=500&lines=mslx%20%7C%20The%20Architect" alt="mslx | The Architect" />
+</h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=thicket&color=00e5ff&height=250&section=header&text=mslx&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20Enthusiast&descAlignY=60&descAlign=50" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00E5FF&center=true&vCenter=true&width=500&lines=17-Year-Old+Wizard;Dev+at+Naira+Company;MineHone+Developer;4+Years+of+Experience;Continuous+Learner..." />
+  <img src="https://capsule-render.vercel.app/render?type=thicket&color=00e5ff&height=280&section=header&text=Amin%20Mslx&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Building%20the%20Future%2C%20One%20Line%20of%20Code%20at%20a%20Time&descAlignY=60&descAlign=50" />
 </p>
 
 ---
 
-### 🌑 [ SYSTEM STATUS: ONLINE ]
+### 🌐 [ SYSTEM STATUS: ONLINE ] 🚀
 
-```javascript
-const mslx = {
-    identity: "Amin",
-    alias: "mslx",
-    experience: "4 Years Professional",
-    current_roles: ["Dev @ Naira", "Dev @ MineHone"],
-    stack: ["Java", "Kotlin", "Go"],
-    interests: ["Network Architecture", "AI Integration", "High-Performance Systems"]
-};
-```
-# 🛠️ Strategic Tech Arsenal (Animated)
-<p align="center"> <a href="https://www.google.com/search?q=https://skillicons.dev"> <img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Djava,kotlin,go,docker,kubernetes,linux,mongodb,postgres,redis,rabbitmq,git,githubactions,ai,vscode,idea%26perline%3D5" /> </a> </p>
+> "Innovation is the only constant. Learning is the fuel."
 
-# 📊 Real-Time Analytics
-<p align="center"> <img width="48%" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DYOUR_USERNAME%26show_icons%3Dtrue%26theme%3Dtokyonight%26bg_color%3D0D1117%26title_color%3D00e5ff%26text_color%3Dffffff%26icon_color%3D00e5ff%26hide_border%3Dtrue" /> <img width="48%" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DYOUR_USERNAME%26layout%3Dcompact%26theme%3Dtokyonight%26bg_color%3D0D1117%26title_color%3D00e5ff%26text_color%3Dffffff%26hide_border%3Dtrue" /> </p>
+- 🧑‍💻 **Who am I?** A 17-year-old software engineer, passionate about creating robust and scalable systems.
+- 💼 **Current Mission:** Developing cutting-edge solutions at **Naira** and advancing gaming tech at **MineHone**.
+- 💡 **Expertise:** With 4+ years of experience, I excel in Java, Kotlin, and Go.
+- 🌱 **Growth Mindset:** Constantly expanding my knowledge in AI, Network Programming, and System Design.
 
-<p align="center"> <img width="100%" src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3DYOUR_USERNAME%26theme%3Dtokyonight%26background%3D0D1117%26ring%3D00e5ff%26fire%3D00e5ff%26currStreakLabel%3D00e5ff%26hide_border%3Dtrue" /> </p>
+---
 
-# 🐍 Activity Tracker
-<p align="center"> <img src="https://www.google.com/search?q=https://github-profile-summary-cards.vercel.app/api/cards/profile-details%3Fusername%3DYOUR_USERNAME%26theme%3Dtokyonight" width="100%" /> </p>
+### 🛠️ Strategic Tech Arsenal (Dynamic & Animated)
 
-# 📡 Encrypted Communication
-<p align="center"> <a href="mailto:YOUR_EMAIL@gmail.com"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/GMAIL-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" /> </a> <a href="https://www.google.com/search?q=https://t.me/YOUR_TELEGRAM_ID"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/TELEGRAM-26A5E4%3Fstyle%3Dfor-the-badge%26logo%3Dtelegram%26logoColor%3Dwhite" /> </a> </p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,kotlin,go,docker,kubernetes,git,githubactions,linux,mongodb,postgres,redis,rabbitmq,ai,idea,vscode&perline=6" alt="Tech Stack" />
+  </a>
+</p>
 
-<p align="center"> <img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3DYOUR_USERNAME%26color%3D00e5ff%26style%3Dflat-square%26label%3DPROFILE%2BVIEWS" /> </p>
+---
+
+### 📊 Real-Time Performance Metrics
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=00e5ff&text_color=ffffff&icon_color=00e5ff&hide_border=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=00e5ff&text_color=ffffff&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&background=0D1117&ring=00e5ff&fire=00e5ff&currStreakLabel=00e5ff&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+### 📈 Activity & Insights
+
+<p align="center">
+  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=tokyonight" alt="Profile Details" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+---
+
+### 📞 Connect & Collaborate
+
+<p align="center">
+  <a href="mailto:YOUR_EMAIL@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://t.me/YOUR_TELEGRAM_ID">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_PROFILE">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=00e5ff&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
