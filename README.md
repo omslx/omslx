@@ -31,7 +31,7 @@ I enjoy turning ideas into working systems and pushing projects from concept →
 ## 🌌 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,kotlin,go,androidstuido,linux,docker,mongodb,redis,git,github,idea,vscode&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=java,kotlin,go,androidstudio,linux,docker,mongodb,redis,git,github,idea,vscode&theme=dark"/>
 </p>
 
 ---
@@ -39,8 +39,8 @@ I enjoy turning ideas into working systems and pushing projects from concept →
 ## 🔥 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=omslx&show_icons=true&theme=tokyonight&hide_border=true&border_radius=14" height="170"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=omslx&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=omslx&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=omslx&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -48,7 +48,7 @@ I enjoy turning ideas into working systems and pushing projects from concept →
 ## 🧠 Most Used Languages
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omslx&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=omslx&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -89,7 +89,7 @@ I enjoy turning ideas into working systems and pushing projects from concept →
 ## 🏆 Achievements
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=omslx&theme=tokyonight&no-frame=true&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=omslx&theme=tokyonight&no-frame=true"/>
 </p>
 
 ---
