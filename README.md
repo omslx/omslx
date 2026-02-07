@@ -1,72 +1,62 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=45&pause=1000&color=00E5FF&center=true&vCenter=true&width=500&lines=mslx%20%7C%20The%20Architect" alt=" mslx | The Architect" />
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=00e5ff&height=300&section=header&text=omslx&fontSize=120&animation=fadeIn&fontAlignY=38&desc=Architecting%20Scalable%20Systems&descAlignY=60&descAlign=50" />
 </h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=thicket&color=00e5ff&height=280&section=header&text=Amin%20Mslx&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Building%20the%20Future%2C%20One%20Line%20of%20Code%20at%20a%20Time&descAlignY=60&descAlign=50" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Amin+%7C+17-Year-Old+Backend+Wizard;Dev+@+Naira+%26+MineHone;Java+%7C+Kotlin+%7C+Go+Specialist;4+Years+of+Experience;Continuous+Learning+Protocol+Activated..." />
 </p>
 
 ---
 
-### 🌐 [ SYSTEM STATUS: ONLINE ] 🚀
+### ⚡ [ SYSTEM_OVERRIDE_INITIALIZED ] 🌑
 
-> "Innovation is the only constant. Learning is the fuel."
-
-- 🧑‍💻 **Who am I?** A 17-year-old software engineer, passionate about creating robust and scalable systems.
-- 💼 **Current Mission:** Developing cutting-edge solutions at **Naira** and advancing gaming tech at **MineHone**.
-- 💡 **Expertise:** With 4+ years of experience, I excel in Java, Kotlin, and Go.
-- 🌱 **Growth Mindset:** Constantly expanding my knowledge in AI, Network Programming, and System Design.
+* **Identity:** Amin (omslx)
+* **XP:** 4+ Years of Professional Coding
+* **Current Status:** Senior Dev @ **Naira** | Engine Developer @ **MineHone**
+* **Focus:** High-Performance Networking, AI, and Distributed Systems
 
 ---
 
-### 🛠️ Strategic Tech Arsenal (Dynamic & Animated)
+### 🛠️ Tech Arsenal (Animated & Neon)
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,kotlin,go,docker,kubernetes,git,githubactions,linux,mongodb,postgres,redis,rabbitmq,ai,idea,vscode&perline=6" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=java,kotlin,go,docker,kubernetes,linux,mongodb,postgres,redis,rabbitmq,git,githubactions,ai,vscode,idea&perline=5" />
   </a>
 </p>
 
 ---
 
-### 📊 Real-Time Performance Metrics
+### 📊 Performance Analytics (Live System Logs)
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=omslx&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=00e5ff&text_color=ffffff&icon_color=00e5ff&hide_border=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omslx&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=00e5ff&text_color=ffffff&hide_border=true" alt="Top Languages" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=omslx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00e5ff&icon_color=00e5ff&text_color=ffffff" />
 </p>
 
 <p align="center">
-  <img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=omslx&theme=tokyonight&background=0D1117&ring=00e5ff&fire=00e5ff&currStreakLabel=00e5ff&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-### 📈 Activity & Insights
-
-<p align="center">
-  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omslx&theme=tokyonight" alt="Profile Details" />
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/omslx/omslx/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omslx&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00e5ff&text_color=ffffff" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=omslx&theme=tokyonight&hide_border=true&background=00000000&ring=00e5ff&fire=00e5ff" />
 </p>
 
 ---
 
-### 📞 Connect & Collaborate
-
+### 🐍 The Code-Snake Protocol
 <p align="center">
-  <a href="mailto:YOUR_EMAIL@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://raw.githubusercontent.com/omslx/omslx/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
+
+---
+
+### 📡 Encrypted Links
+<p align="center">
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://t.me/YOUR_TELEGRAM_ID">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_PROFILE">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://t.me/your_telegram_id">
+    <img src="https://img.shields.io/badge/TELEGRAM-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=00e5ff&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=omslx&color=00e5ff&style=flat-square&label=VISITOR+COUNT" />
 </p>
