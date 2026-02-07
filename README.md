@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=45&pause=1000&color=00E5FF&center=true&vCenter=true&width=500&lines=mslx%20%7C%20The%20Architect" alt="mslx | The Architect" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=45&pause=1000&color=00E5FF&center=true&vCenter=true&width=500&lines=mslx%20%7C%20The%20Architect" alt=" mslx | The Architect" />
 </h1>
 
 <p align="center">
@@ -32,12 +32,12 @@
 ### 📊 Real-Time Performance Metrics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=00e5ff&text_color=ffffff&icon_color=00e5ff&hide_border=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=00e5ff&text_color=ffffff&hide_border=true" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=omslx&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=00e5ff&text_color=ffffff&icon_color=00e5ff&hide_border=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omslx&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=00e5ff&text_color=ffffff&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&background=0D1117&ring=00e5ff&fire=00e5ff&currStreakLabel=00e5ff&hide_border=true" alt="GitHub Streak" />
+  <img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=omslx&theme=tokyonight&background=0D1117&ring=00e5ff&fire=00e5ff&currStreakLabel=00e5ff&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -45,10 +45,10 @@
 ### 📈 Activity & Insights
 
 <p align="center">
-  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=tokyonight" alt="Profile Details" />
+  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omslx&theme=tokyonight" alt="Profile Details" />
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/omslx/omslx/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
