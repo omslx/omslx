@@ -31,7 +31,7 @@ I enjoy turning ideas into working systems and pushing projects from concept →
 ## 🌌 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,kotlin,go,python,linux,docker,mongodb,redis,git,github,idea,vscode&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=java,kotlin,go,androidstuido,linux,docker,mongodb,redis,git,github,idea,vscode&theme=dark"/>
 </p>
 
 ---
