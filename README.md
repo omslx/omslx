@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00E5FF&center=true&vCenter=true&width=500&lines=System+Architect;Backend+Specialist;AI+Integration+Engineer;Developer+@+Naira;Eng+@+MineHone" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00E5FF&center=true&vCenter=true&width=500&lines=System+Architect;Backend+%26+Mobile+Specialist;AI+Integration+Engineer;Developer+@+Naira;Eng+@+MineHone" />
 </div>
 
 ---
@@ -18,13 +18,13 @@
         <li><b>Exp:</b> 4 Years of Continuous Coding</li>
         <li><b>Current:</b> Developing Systems at <b>Naira</b></li>
         <li><b>Gaming:</b> Engine Dev at <b>MineHone</b></li>
-        <li><b>Passion:</b> AI, Networking, and Low-Level Magic</li>
+        <li><b>Passion:</b> AI, Networking, and Android Dev</li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <h3>Tech.arsenal()</h3>
       <p>
-        <img src="https://skillicons.dev/icons?i=java,kotlin,go,docker,kubernetes,linux,mongodb,postgres,redis,rabbitmq,git,githubactions,ai,vscode,idea&perline=5" />
+        <img src="https://skillicons.dev/icons?i=java,kotlin,go,androidstudio,docker,kubernetes,linux,mongodb,postgres,redis,git,githubactions,ai,vscode,idea&perline=5" />
       </p>
     </td>
   </tr>
