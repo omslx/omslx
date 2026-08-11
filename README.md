@@ -1,7 +1,7 @@
 <!-- NEON HEADER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f0c29,50:302b63,100:00fff7&text=OMSLX&fontSize=60&fontAlignY=40&animation=fadeIn"/>
 
-<h1 align="center">👋 Hey, I'm Amin (omslx)</h1>
+<h1 align="center">👋 Hey, I'm Amin (mslx)</h1>
 <p align="center">
   <b>Minecraft Developer • Backend Engineer • AI & Network Enthusiast</b>
 </p>
