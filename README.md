@@ -1,178 +1,90 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0b0617,45:17102f,75:302b63,100:00fff7&text=OMSLX&fontSize=72&fontAlignY=40&animation=fadeIn&fontColor=ffffff" width="100%"/>
-</p>
-
-<h1 align="center">Hey, I'm Amin 👋</h1>
-
-<p align="center">
-  <b>I build systems, break things, fix them, and learn how they work.</b>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=3000&pause=900&color=00FFF7&center=true&vCenter=true&width=760&lines=Backend+%7C+Minecraft+%7C+Infrastructure;Java+%7C+Kotlin+%7C+Go;From+an+idea+to+a+working+system;Always+building.+Always+learning." />
-</p>
-
-<p align="center">
-  <a href="https://github.com/omslx">
-    <img src="https://img.shields.io/badge/GitHub-omslx-0d1117?style=flat-square&logo=github&logoColor=00fff7"/>
-  </a>
-  <a href="https://discord.com/users/artmslx">
-    <img src="https://img.shields.io/badge/Discord-artmslx-0d1117?style=flat-square&logo=discord&logoColor=00fff7"/>
-  </a>
-</p>
-
----
-
-## 🧬 Who Am I?
-
-I'm **Amin**, better known online as **`mslx`**.
-
-I'm a developer who enjoys working where **software meets infrastructure** — building backend services, Minecraft systems, networked applications, and tools that solve actual problems.
-
-I care less about writing the most code and more about making the **right system work well**.
-
-```text
-4+ years       building & experimenting
-Java / Kotlin  backend & Minecraft
-Go             systems & services
-Networking     infrastructure & protocols
-AI             automation & developer tools
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=12,20,25&text=AMIN%20%2F%2F%20OMSLX&fontSize=55&fontAlignY=35&fontColor=00fff7&animation=twinkling&desc=SYSTEM.BUILDER%20%7C%20MINECRAFT.ENGINEER%20%7C%20BACKEND.DEV&descAlignY=58&descSize=16&descColor=8892b0"/>
+<br>
 ```
+> whoami
+amin (omslx) — developer who ships production systems, not toy demos
 
-> **Think. Build. Break. Understand. Repeat.**
+> uptime
+~4 years of hands-on building
 
----
-
-## ⚡ What I Build
-
-### 🎮 Minecraft Engineering
-
-I build Minecraft plugins and server systems with a focus on:
-
-`performance` · `architecture` · `scalability` · `clean APIs`
-
-From gameplay mechanics to the infrastructure behind a server, I like understanding the entire stack rather than only one piece of it.
-
-### ⚙️ Backend Systems
-
-I enjoy designing backend services that are:
-
-`simple` · `reliable` · `maintainable`
-
-My main tools are **Kotlin, Java, and Go**, with experience working around databases, caching, APIs, containers, and distributed components.
-
-### 🌐 Infrastructure & Networking
-
-Servers are more interesting when you know what happens underneath them.
-
-I'm interested in:
-
-`Linux` · `Docker` · `Redis` · `MongoDB` · `networking` · `virtualization` · `system architecture`
-
-### 🤖 AI & Automation
-
-I'm constantly experimenting with ways to use AI to automate repetitive work, improve development workflows, and turn ideas into tools.
-
----
-
-## 🛠️ My Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,kotlin,go,linux,docker,mongodb,redis,git,github,idea,vscode,androidstudio&theme=dark" />
-</p>
-
----
-
-## 🚀 Currently Exploring
-
-```text
-→ Advanced Minecraft architecture
-→ High-performance backend services
-→ Networking & infrastructure
-→ Distributed systems
-→ AI-powered automation
-→ Better ways to design scalable software
+> status
+[ONLINE] currently deep in Go, Kotlin & Minecraft plugin architecture
 ```
-
----
-
-## 📊 GitHub
-
-<p align="center">
-  <img height="175" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=omslx&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=00fff7&icon_color=00fff7&text_color=c9d1d9" />
-  <img height="175" src="https://streak-stats.demolab.com?user=omslx&theme=tokyonight&hide_border=true&background=0d1117&ring=00fff7&fire=00fff7&currStreakLabel=00fff7" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=omslx&layout=compact&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=00fff7&text_color=c9d1d9" />
-</p>
-
----
-
-## 📈 Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=omslx&bg_color=0d1117&color=00fff7&line=302b63&point=ffffff&area=true&hide_border=true" width="96%"/>
-</p>
-
----
-
-## 🐍 Contribution Flow
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="95%"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=omslx&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8"/>
-</p>
-
----
-
-## 💭 A Few Things I Believe
-
-> **Good code isn't code that looks clever.**
-> **It's code that makes sense six months later.**
-
-> **Building is the fastest way to learn.**
-
-> **Every broken system is a chance to understand it better.**
-
----
-
-## 🌌 Beyond the Code
-
-```text
-🎮 Minecraft      → where I started building systems
-🧠 Curiosity      → my favorite debugging tool
-🌐 Networking     → understanding what's underneath
-⚡ Experimenting   → because "what if?" is dangerous
-📚 Learning       → never really finished
-```
-
-<p align="center">
-  <i>There is always something else worth building.</i>
-</p>
-
----
-
-## 🌐 Find Me
-
-<p align="center">
-  <a href="https://github.com/omslx">
-    <img src="https://img.shields.io/badge/GitHub-OMSLX-0d1117?style=for-the-badge&logo=github&logoColor=00fff7"/>
-  </a>
-  <a href="https://discord.com/users/artmslx">
-    <img src="https://img.shields.io/badge/Discord-artmslx-0d1117?style=for-the-badge&logo=discord&logoColor=00fff7"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:00fff7,45:302b63,100:0b0617&section=footer" width="100%"/>
-</p>
+</div>
+<br>
+🗂️ Overview
+<table>
+<tr>
+<td valign="top" width="50%">
+🎮 Minecraft Engineering
+Production-grade plugins, custom game systems, and server-side architecture built for scale and stability.
+⚙️ Backend Development
+Go, Kotlin, and Java services — APIs, data pipelines, and infrastructure that stays up.
+</td>
+<td valign="top" width="50%">
+🌐 Networking & Infra
+System design, infrastructure setup, and everything that keeps services fast and reliable.
+🤖 AI & Automation
+Exploring LLM tooling and automating the boring parts of development.
+</td>
+</tr>
+</table>
+<br>
+🧰 Stack
+<div align="center">
+Languages
+<br>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white">
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white">
+<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white">
+Platforms & Tools
+<br>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white">
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black">
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
+Environment
+<br>
+<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white">
+<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white">
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white">
+</div>
+<br>
+📈 Metrics
+<div align="center">
+<img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=omslx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00fff7&icon_color=00fff7"/>
+<img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=omslx&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00fff7"/>
+</div>
+<div align="center">
+<img src="https://streak-stats.demolab.com?user=omslx&theme=tokyonight&hide_border=true&background=0d1117&ring=00fff7&fire=00fff7&currStreakLabel=00fff7"/>
+</div>
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=omslx&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00fff7&line=00fff7&point=ffffff&area=true"/>
+</div>
+<br>
+🐍 Contribution Trail
+<div align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+</div>
+<br>
+🏆 Trophy Case
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=omslx&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10&column=7"/>
+</div>
+<br>
+💬 Philosophy
+<div align="center">
+> *"Code like an engineer. Build like a hacker. Learn like a beginner."*
+</div>
+<br>
+📡 Reach Me
+<div align="center">
+<a href="https://github.com/omslx"><img src="https://img.shields.io/badge/GitHub-@omslx-0d1117?style=for-the-badge&logo=github&logoColor=00fff7&labelColor=000000"></a>
+<a href="https://discord.com/users/artmslx"><img src="https://img.shields.io/badge/Discord-@artmslx-0d1117?style=for-the-badge&logo=discord&logoColor=00fff7&labelColor=000000"></a>
+<br><br>
+<img src="https://komarev.com/ghpvc/?username=omslx&color=00fff7&style=for-the-badge&label=PROFILE+VIEWS"/>
+</div>
+<br>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=gradient&customColorList=25,20,12&section=footer"/>
