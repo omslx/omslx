@@ -78,7 +78,7 @@ I'm constantly experimenting with ways to use AI to automate repetitive work, im
 ## 🛠️ My Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,kotlin,go,linux,docker,mongodb,redis,git,github,idea,retrofit,ktor,vscode,androidstudio&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,kotlin,go,linux,docker,mongodb,redis,git,github,idea,retrofit,mariadb,vscode,androidstudio&theme=dark" />
 </p>
 
 ---
