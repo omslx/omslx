@@ -1,207 +1,278 @@
-<div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:09090f,40:17102f,75:302b63,100:00e5d4&text=OMSLX&fontSize=76&fontColor=ffffff&fontAlignY=42&animation=fadeIn&desc=BUILDING%20SYSTEMS%20BEYOND%20THE%20CODE&descSize=13&descAlignY=63&descColor=c4c4d4"/>
+{`<div align="center">
 
-# Hey, I'm Amin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/>
-
-### Backend Developer · Systems Engineer · Infrastructure Enthusiast
-
-*I build systems, explore infrastructure, and turn ideas into working software.*
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1000&color=00E5D4&center=true&vCenter=true&width=600&lines=Java+%2F+Kotlin+%2F+Go;Backend+Engineering;Networking+%26+Infrastructure;Always+building%2C+always+learning." />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:050507,35:10091c,70:28143f,100:9b5cff&text=OMSLX&fontSize=100&fontColor=ffffff&fontAlignY=42&animation=fadeIn&desc=ENGINEERING%20THE%20UNSEEN&descSize=13&descColor=d8c5ff&descAlignY=65"/>
 
 <br/>
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3500&pause=1000&color=B78AFF&center=true&vCenter=true&width=600&lines=BACKEND+ENGINEER;SYSTEMS+%26+INFRASTRUCTURE;JAVA+%2F+KOTLIN+%2F+GO;BUILDING+THINGS+THAT+MATTER." />
+
+<br/><br/>
+
 <a href="https://github.com/omslx">
-  <img src="https://img.shields.io/badge/GitHub-omslx-11111b?style=for-the-badge&logo=github&logoColor=00e5d4"/>
+<img src="https://img.shields.io/badge/GITHUB-OMSLX-0b0810?style=flat-square&logo=github&logoColor=c9a5ff"/>
 </a>
+&nbsp;
 <a href="https://discord.com/users/artmslx">
-  <img src="https://img.shields.io/badge/Discord-artmslx-11111b?style=for-the-badge&logo=discord&logoColor=7289da"/>
+<img src="https://img.shields.io/badge/DISCORD-ARTMSLX-0b0810?style=flat-square&logo=discord&logoColor=c9a5ff"/>
 </a>
+
+<br/><br/>
+
+<sub>INDEPENDENTLY CURIOUS. PERMANENTLY BUILDING.</sub>
 
 </div>
 
 ---
 
-## 01 / About Me
+<div align="center">
 
-I'm **Amin**, known online as **mslx**.
+## 001 — THE PERSON BEHIND THE CODE
 
-I'm a developer interested in the intersection of software engineering and infrastructure.
+### Amin. Also known as `mslx`.
 
-I enjoy designing backend systems, developing applications, experimenting with networking, and understanding how things work beneath the surface.
+</div>
 
-Rather than focusing on a single technology, I enjoy understanding the entire system — from application architecture to the infrastructure running it.
+I'm a developer fascinated by the space between software and infrastructure.
 
-```yaml
-name: Amin
-alias: mslx
-focus:
-  - Backend Engineering
-  - Systems Development
-  - Networking & Infrastructure
-  - Automation & AI
-languages:
-  - Java
-  - Kotlin
-  - Go
-  - Python
-philosophy: "Understand it. Build it. Make it better."
-```
+I build backend systems, experiment with network architecture, develop applications, and explore the engineering behind the technology we use every day.
 
-## 02 / What I Do
+I don't want to just use technology.
+
+**I want to understand what's happening underneath it.**
+
+<br/>
+
+\`\`\`text
+    NAME       /  Amin
+    ALIAS      /  mslx
+    DOMAIN     /  Software & Infrastructure
+    CORE       /  Java · Kotlin · Go
+    MINDSET    /  Understand. Engineer. Improve.
+\`\`\`
+
+---
+
+<div align="center">
+
+## 002 — SELECTED DOMAINS
+
+<sub>THINGS I LIKE TO BUILD</sub>
+
+</div>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### ⚙️ Backend Engineering
+### ◈ Backend Engineering
 
-- REST API development
-- Application architecture
-- Database integration
-- Caching and asynchronous systems
-- Performance and maintainability
+Designing services, APIs and application architectures.
+
+`Kotlin` `Java` `Go` `Ktor`
 
 </td>
 <td width="50%" valign="top">
 
-### 🌐 Infrastructure
+### ◈ Infrastructure
 
-- Linux administration
-- Virtualization
-- Docker & containerization
-- Networking and routing
-- Server deployment and management
+Exploring the systems beneath applications.
+
+`Linux` `Docker` `Proxmox` `Networking`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🎮 Minecraft Engineering
+### ◈ Systems Development
 
-- Plugin development
-- Java & Kotlin
-- Server-side architecture
-- Custom gameplay systems
-- Performance optimization
+Building tools and understanding low-level concepts.
+
+`Go` `Linux` `Protocols`
 
 </td>
 <td width="50%" valign="top">
 
-### 🤖 Automation & AI
+### ◈ Minecraft Engineering
 
-- Development automation
-- AI-assisted workflows
-- Developer tools
-- System integration
-- Experimental projects
+Custom server systems and gameplay architecture.
+
+`Paper` `Purpur` `Java` `Kotlin`
 
 </td>
 </tr>
 </table>
 
-## 03 / Technology Stack
+---
 
 <div align="center">
 
-### Languages
+## 003 — SELECTED WORKS
 
-<img src="https://skillicons.dev/icons?i=java,kotlin,go,python&theme=dark" />
-
-### Backend & Databases
-
-<img src="https://skillicons.dev/icons?i=ktor,mysql,postgres,mongodb,redis,rabbitmq&theme=dark" />
-
-### Infrastructure & Tools
-
-<img src="https://skillicons.dev/icons?i=linux,docker,git,github,idea,vscode,androidstudio&theme=dark" />
+<sub>PROJECTS, EXPERIMENTS & ENGINEERING</sub>
 
 </div>
 
-## 04 / Selected Projects
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### Network Atlas
+### 01 / NETWORK ATLAS
 
-**Go · Networking · Systems**
+**Network discovery & analysis**
 
-A command-line tool focused on network discovery and network analysis.
+A Go-based CLI project focused on network analysis and useful network tooling.
 
-Repository: [omslx/Network-Atlas](https://github.com/omslx/Network-Atlas)
+[VIEW REPOSITORY ↗](https://github.com/omslx/Network-Atlas)
 
----
+</td>
+<td width="50%" valign="top">
 
-### Azura
+### 02 / SAPPHIRE FFA
 
-**Kotlin · Backend · Minecraft**
+**Minecraft Engineering**
 
-A Minecraft development project focused on server-side systems and architecture.
+A Kotlin-based Minecraft FFA plugin built around the Paper ecosystem.
 
----
+[VIEW REPOSITORY ↗](https://github.com/omslx/Sapphire-FFA)
 
-### EDGE RP
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-**Kotlin · Ktor · React · TypeScript**
+### 03 / CORe HUNTSPRINT
 
-A roleplay server web platform with a dedicated backend and modern frontend architecture.
+**Backend & Game Systems**
 
----
+A project combining Ktor, Redis and Minecraft-related systems.
 
-### MineHeaven
+[VIEW REPOSITORY ↗](https://github.com/omslx/Core-HuntSprint)
 
-**Minecraft · Infrastructure · Server Management**
+</td>
+<td width="50%" valign="top">
 
-A Minecraft server project involving development, hosting, and infrastructure management.
+### 04 / MINEHEAVEN
 
----
+**Minecraft & Infrastructure**
 
-## 05 / Currently Exploring
+A Minecraft server project involving development, hosting and infrastructure.
 
-```text
-01. Advanced backend architecture
-02. Distributed systems
-03. High-performance networking
-04. Infrastructure automation
-05. AI-powered developer tools
-06. Scalable application design
-```
+[VISIT WEBSITE ↗](https://mineheaven.ir/)
 
-## 06 / GitHub Statistics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=omslx&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00e5d4&icon_color=9b87f5&text_color=c9d1d9&rank_icon=github" />
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=omslx&hide_border=true&background=0d1117&ring=00e5d4&fire=9b87f5&currStreakLabel=00e5d4&sideLabels=c9d1d9&dates=777788" />
-
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omslx&layout=compact&hide_border=true&bg_color=0d1117&title_color=00e5d4&text_color=c9d1d9" />
-
-</div>
-
-## 07 / My Philosophy
-
-> Good software isn't about writing more code.
-> It's about solving the right problem with the right architecture.
-
-> Understand the system, not just the code.
-
-> Build. Experiment. Learn. Repeat.
+</td>
+</tr>
+</table>
 
 ---
 
 <div align="center">
 
-### FIND ME ELSEWHERE
+## 004 — TECH ARSENAL
 
-<a href="https://github.com/omslx">GitHub</a>
-&nbsp; · &nbsp;
-<a href="https://discord.com/users/artmslx">Discord</a>
+<sub>TOOLS ARE MEANS. ENGINEERING IS THE POINT.</sub>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:00e5d4,50:302b63,100:09090f&section=footer"/>
+### LANGUAGES
 
-**OMSLX** · Always something worth building.
+<img src="https://skillicons.dev/icons?i=java,kotlin,go,python&theme=dark"/>
+
+### BACKEND & DATA
+
+<img src="https://skillicons.dev/icons?i=ktor,spring,mysql,postgres,mongodb,redis&theme=dark"/>
+
+### INFRASTRUCTURE
+
+<img src="https://skillicons.dev/icons?i=linux,docker,git,github&theme=dark"/>
+
+### DEVELOPMENT ENVIRONMENT
+
+<img src="https://skillicons.dev/icons?i=idea,vscode,androidstudio&theme=dark"/>
 
 </div>
+
+---
+
+<div align="center">
+
+## 005 — CURRENTLY IN PROGRESS
+
+</div>
+
+\`\`\`yaml
+exploring:
+  - Distributed Systems
+  - Backend Architecture
+  - Advanced Networking
+  - Infrastructure Automation
+  - AI-powered Developer Tools
+  - Performance Engineering
+
+always:
+  - Building
+  - Experimenting
+  - Learning
+\`\`\`
+
+---
+
+<div align="center">
+
+## 006 — GITHUB FOOTPRINT
+
+<sub>A LITTLE LOOK AT THE WORK</sub>
+
+<br/><br/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=omslx&show_icons=true&hide_border=true&bg_color=09070e&title_color=c9a5ff&icon_color=bb86fc&text_color=d8d2e5&rank_icon=github"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=omslx&hide_border=true&background=09070e&ring=c9a5ff&fire=ff78c8&currStreakLabel=c9a5ff&sideLabels=d8d2e5&dates=777080"/>
+
+<br/><br/>
+
+<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omslx&layout=compact&hide_border=true&bg_color=09070e&title_color=c9a5ff&text_color=d8d2e5"/>
+
+<br/><br/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=omslx&bg_color=09070e&color=c9a5ff&line=8e5bce&point=ffffff&area=true&hide_border=true&custom_title=CONTRIBUTION%20TIMELINE"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 007 — A PERSONAL PHILOSOPHY
+
+<br/>
+
+### "Elegance is not in how much you build."
+
+### "It's in how well everything works together."
+
+<br/>
+
+<sub>THINK DEEPER. BUILD BETTER. STAY CURIOUS.</sub>
+
+<br/><br/>
+
+### FIND ME IN THE DIGITAL WORLD
+
+<a href="https://github.com/omslx">
+<img src="https://img.shields.io/badge/GITHUB-OMSLX-100b18?style=for-the-badge&logo=github&logoColor=c9a5ff"/>
+</a>
+
+<a href="https://discord.com/users/artmslx">
+<img src="https://img.shields.io/badge/DISCORD-ARTMSLX-100b18?style=for-the-badge&logo=discord&logoColor=c9a5ff"/>
+</a>
+
+<br/><br/>
+
+<sub>OMSLX © 2026 — BUILT WITH INTENTION.</sub>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:9b5cff,40:28143f,75:10091c,100:050507&section=footer"/>
+
+</div>`}
+    
